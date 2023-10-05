@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695960863 source:d:\embedeed\test\sudoko_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
